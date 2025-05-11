@@ -4,6 +4,9 @@
 - meu email: ianclauhs@gmail.com
 - ele/dele
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ian07312&show_icons=true&theme=tokyonight)
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Ian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
